@@ -10,40 +10,41 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/13
-- */1 Readme
-- */2 Basic HTML content
-- */2 Basic CSS styling
-- */2 Advanced feature
-- */3 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+13/13
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 2/2 Basic CSS styling
+- 2/2 Advanced feature
+- 3/3 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
 
+I have at least one image with alternate text (Photo of myself) along with appropriate headings and paragraphs (Projects header w/ descriptions and About header w/ paragraph text). I also have multiple pages with navigation between them and semantic HTML tags such as form and label.
 
 
 (b) CSS features
-
+I modified padding and margins to make the content readable along with text and link color to make the website visually appealing (Top bar has a hover color for each section). I also leverage bootstrap to make table layouts for each section.
 
 
 (c) Advanced features
-
+I created a more complex page layout for the home page that can be navigated with a sidebar. I also embedded an HTML form for my contact page.
 
 
 3. How long, in hours, did it take you to complete this assignment?
-
+About 5 hours.
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
+https://chat.openai.com/
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+I did not consult any other individuals for help.
 
 
 6. Is there anything special we need to know in order to run your code?
-
+No.
